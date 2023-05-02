@@ -14,6 +14,8 @@ Create docker-compose.yml file
 
 # Step Five
 Add product
+
+# Step six
 if the data is persistent
 
  
