@@ -10,6 +10,10 @@ Create a Dockerfile for the client dir > create a docker container
 Create a Dockerfile for the backend dir > create a docker container
 
 # Step Four
+Create docker-compose.yml file
 
+# Step Five
+Add product
+if the data is persistent
 
  

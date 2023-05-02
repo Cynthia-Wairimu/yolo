@@ -4,7 +4,7 @@ WORKDIR /yolo
 
 COPY package*.json .
 
-RUN npm ci
+RUN npm install
 
 COPY . .
 
