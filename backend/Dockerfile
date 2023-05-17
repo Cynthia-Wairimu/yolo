@@ -2,10 +2,10 @@ FROM node:20.0.0-alpine3.16
 
 WORKDIR /yolo-backend
 
-COPY package*.json .
+COPY package*.json ./
 
 RUN npm install
 
-COPY . .
+COPY . ./
 
 CMD ["npm", "start"]
