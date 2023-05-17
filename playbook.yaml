@@ -13,5 +13,5 @@
 
   roles:
     - install
-    - clone
-    - rundc         
+    - gitclone
+    - composeup        
