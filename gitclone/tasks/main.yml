@@ -1,6 +1,5 @@
 ---
 # tasks file for gitclone
----
 - name: git clone the yolo repository
   ansible.builtin.git:
     repo: https://github.com/Cynthia-Wairimu/yolo
